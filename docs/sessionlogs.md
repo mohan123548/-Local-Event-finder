@@ -20,6 +20,4 @@ Technology direction (location-based + recommendation systems)
 Impact (community engagement, economic support)
 Scalability (future-ready system)
  
-deekshith
 
-i have created a branch in git hub
