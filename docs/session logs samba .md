@@ -16,6 +16,6 @@ Our group has explained our project theme to other teams, and they also explaine
 ## Q: Which concept defines the web business?
 Answer: The concept of value exchange defines the web business. A website must provide clear value to users—whether through information, entertainment, or utility—in return for their time, attention, or data.
 
-Q: What is one assumption about your users that this workshop forced you to challenge?
+## Q: What is one assumption about your users that this workshop forced you to challenge?
 Answer: I assumed users would explore the website thoroughly and read all instructions. This workshop made me realize that most users skim and expect intuitive design without needing guidance, so clarity and simplicity are more important than detailed explanations.
 
