@@ -5,18 +5,18 @@
 ## 🗓️ 28th April 2026
 Ahmad Alisha — Created a new GitHub account.
 
-🗓️ 30th April 2026
+## 🗓️ 30th April 2026
 Completed work on branches and explored branching workflow.
 
-🗓️ 5th May 2026
+## 🗓️ 5th May 2026
 Shaik Ahmad Alisha — Created a file named personas and wrote one persona for Part 1.
 Discussed all three parts with team members.
 
-🗓️ 7th May 2026
+## 🗓️ 7th May 2026
 Shaik Ahmad Alisha — Discussed our idea with other groups.
 Collected feedback and inputs from them, and listened to their project explanations as well.
 
-📝 Reflection
+## 📝 Reflection
 1. Which concept was most useful, and why?
 The user stories concept was the most useful because it helped our team convert abstract user needs into clear, testable actions. By focusing on who the user is, what they want, and why, we were able to design features that aligned with real user workflows instead of assumptions.
 
