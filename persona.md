@@ -1,4 +1,3 @@
-![Persona Images](images/personas-image.png)
 # # **🧑‍🤝‍🧑 PERSONAS**
 
 ## **👤 Persona 1 — Alex**
